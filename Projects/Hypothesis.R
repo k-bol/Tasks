@@ -1,0 +1,1 @@
+#With no expression of estrogen receptors as a clinical biomarker, there is a greater genetic predisposition to basal-like breat cancer. 
