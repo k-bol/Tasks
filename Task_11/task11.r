@@ -23,3 +23,4 @@ library("meme")
 KB<- "https://media.npr.org/assets/img/2016/03/29/ap_090911089838_sq-3271237f28995f6530d9634ff27228cae88e3440.jpg"
 Katherine_meme<-meme(KB, upper="when you had code errors for 5 hours", lower= "but only needed to respell one thing", col="white", size="1.0")
 Katherine_meme
+dev.off()
